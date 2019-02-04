@@ -50,7 +50,6 @@ public class TestImplimentation {
 	@When("^product Add Into Cart as \"([^\"]*)\"$")
 	public void product_Add_Into_Cart_as(String element) throws Throwable {
 		System.out.println("Product Add To cart");
-	//	objTestStepDefinition.productAddIntoCartInApplication(element);
 	}
 
 	@Then("^Check Product Added Into Cart$")
