@@ -138,3 +138,10 @@
 2018-12-13 11:33:59,442 - Maven_Cucumber.mcucumber.TestStepDefinition -INFO - Click on Submit Button 
 2018-12-13 11:34:01,090 - Maven_Cucumber.mcucumber.TestStepDefinition -INFO - Home Page is Displayed...
 2018-12-13 11:34:06,090 - Maven_Cucumber.mcucumber.TestStepDefinition -INFO - Click on Home Button 
+2019-02-01 17:52:23,383 - Maven_Cucumber.mcucumber.TestStepDefinition -INFO - Browser Opened Successfully....
+2019-02-01 17:52:32,594 - Maven_Cucumber.mcucumber.TestStepDefinition -INFO - Click on SignIn Button 
+2019-02-01 17:52:35,939 - Maven_Cucumber.mcucumber.TestStepDefinition -INFO - Enter User Name 
+2019-02-01 17:52:36,160 - Maven_Cucumber.mcucumber.TestStepDefinition -INFO - Enter Password
+2019-02-01 17:52:36,350 - Maven_Cucumber.mcucumber.TestStepDefinition -INFO - Click on Submit Button 
+2019-02-01 17:52:38,214 - Maven_Cucumber.mcucumber.TestStepDefinition -INFO - Home Page is Displayed...
+2019-02-01 17:52:43,216 - Maven_Cucumber.mcucumber.TestStepDefinition -INFO - Click on Home Button 
