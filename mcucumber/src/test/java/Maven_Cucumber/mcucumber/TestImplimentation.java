@@ -16,7 +16,7 @@ public class TestImplimentation {
 	public void success_message_is_displayed() throws Throwable {
 		System.out.println("success message is displayed");
 		objTestStepDefinition.verifyHomePageIsDisplayed();
-		System.out.println("Hi");
+	//	System.out.println("Hi");
 	}
 
 	@Given("^I open my application$")
@@ -56,8 +56,7 @@ public class TestImplimentation {
 	@Then("^Check Product Added Into Cart$")
 	public void check_Product_Added_Into_Cart() throws Throwable {
 		System.out.println("View Product is Added to the Cart");
-	//	objTestStepDefinition.viewTheCart();
-		objTestStepDefinition.tearDownEnvirnoment();
+	//	objTestStepDefinition.tearDownEnvirnoment();
 	}
 	
 	@Given("^Progress Note Page Display$")
