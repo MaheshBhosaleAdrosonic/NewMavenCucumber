@@ -38,7 +38,6 @@ public class TestImplimentation {
 	@Then("^Check home page is displayed$")
 	public void check_home_page_is_displayed() throws Throwable {
 		objTestStepDefinition.verifyHomePageIsDisplayed();
-	//	objTestStepDefinition.tearDownEnvirnoment();
 		System.out.println("Close browser...");
 	}
 
